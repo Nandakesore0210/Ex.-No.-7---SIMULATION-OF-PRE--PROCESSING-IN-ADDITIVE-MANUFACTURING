@@ -44,8 +44,8 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![Uploading 287455698-59646bc2-c1a9-46f3-a860-e3fed681930b.png…]()
-![Uploading 287455710-15bce04a-2795-4249-9377-72085bf82cf4.png…]()
+![287455698-59646bc2-c1a9-46f3-a860-e3fed681930b](https://github.com/Nandakesore0210/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365088/8e22be6a-a95f-4802-a6bb-bcd506e22f5b)
+![287455710-15bce04a-2795-4249-9377-72085bf82cf4](https://github.com/Nandakesore0210/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149365088/fb419c42-f2b6-425c-ade2-8a4cbb0b540a)
 
 ### Name: Nandakesore J
 ### Register Number: 212223240103
